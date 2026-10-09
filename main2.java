@@ -13,7 +13,7 @@ public class UsoDivisa {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner teclado = new Scanner (System.in);
-		System.out.println("Introduce la cantidad de dinero: ");
+		System.out.println("Introduce la cantidad dasdasasde dinero: ");
 		double valor = Double.parseDouble(teclado.nextLine());
 
 
